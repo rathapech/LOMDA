@@ -6,9 +6,6 @@ To run the 5-fold cross validation of all the diseases:
 
 ### main_LOMDA.m  
 
-
-
-<br>
 <br>
 <br>
 To run the 5-fold cross validation of particular disease:
