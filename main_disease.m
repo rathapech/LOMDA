@@ -9,10 +9,6 @@ RS=load(RSmat);
 RD=load(RDmat);
 
 Adj=[RS,RD;RD',DS];
-% color block matrix
-% figure(1);
-%image(Adj,'CDataMapping','scaled');  
-%colorbar;
 
 % disease
 % 624:Breast neoplasms
