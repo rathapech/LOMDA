@@ -3,10 +3,7 @@ clc;
 close all;
 
 
-num_simulation = 2; % Number of independent simulations, for nuclear receptors (4) 
-       % we recommond to set the number of simulation up to 10 or more 
-       % since the performance is not so stable because the network is too
-       % small
+num_simulation = 10; 
        
 K = 5; % K-fold cross validation
 
